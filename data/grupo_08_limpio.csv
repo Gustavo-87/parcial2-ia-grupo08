@@ -1,0 +1,80 @@
+cita_id,especialidad,edad_anios,dias_anticipacion,cita_perdida
+P001,Odontología,75,19.0,0
+P002,Pediatría,60,56.0,1
+P003,Ginecología,26,5.0,0
+P004,Pediatría,41,35.0,1
+P005,Ginecología,34,41.0,1
+P006,Optometría,23,37.0,1
+P007,Pediatría,50,56.0,1
+P008,Odontología,78,60.0,0
+P009,Optometría,48,20.0,0
+P010,Odontología,59,11.0,0
+P011,Medicina general,54,38.0,1
+P012,Pediatría,55,34.0,1
+P013,Pediatría,45,32.0,0
+P014,Ginecología,26,44.0,1
+P015,Medicina general,85,14.0,0
+P016,Odontología,31,25.0,1
+P017,Ginecología,41,33.0,0
+P018,Ginecología,33,35.0,1
+P019,Odontología,65,53.0,1
+P020,Optometría,75,45.0,0
+P021,Medicina general,23,16.0,0
+P022,Pediatría,58,32.0,0
+P023,Medicina general,25,43.0,1
+P024,Ginecología,78,58.0,0
+P025,Optometría,43,46.0,1
+P026,Medicina general,68,40.0,0
+P027,Medicina general,61,51.0,0
+P028,Pediatría,78,12.0,0
+P029,Ginecología,54,31.0,0
+P030,Pediatría,38,4.0,0
+P031,Optometría,73,39.0,0
+P032,Odontología,42,27.0,0
+P033,Pediatría,43,11.0,0
+P034,Pediatría,28,34.0,1
+P035,Odontología,33,26.0,1
+P036,Odontología,42,27.0,1
+P037,Pediatría,81,39.0,0
+P038,Medicina general,81,17.0,0
+P039,Optometría,42,35.0,0
+P040,Odontología,26,45.0,1
+P041,Odontología,35,57.0,1
+P042,Pediatría,60,11.0,0
+P043,Optometría,22,13.0,1
+P044,Optometría,54,32.0,1
+P045,Ginecología,48,12.0,0
+P046,Ginecología,58,37.0,1
+P047,Ginecología,26,53.0,1
+P048,Optometría,81,28.0,0
+P049,Pediatría,80,32.0,0
+P050,Optometría,26,50.0,1
+P051,Ginecología,80,55.0,0
+P052,Medicina general,47,52.0,1
+P053,Pediatría,24,29.0,1
+P054,Optometría,73,16.0,0
+P055,Odontología,63,17.0,0
+P056,Pediatría,37,19.0,0
+P057,Ginecología,24,28.0,1
+P080,Medicina general,59,55.0,1
+P058,Medicina general,43,51.0,1
+P059,Ginecología,26,2.0,0
+P060,Odontología,64,60.0,0
+P061,Medicina general,60,12.0,0
+P062,Optometría,56,11.0,0
+P063,Optometría,39,24.0,0
+P064,Medicina general,39,27.0,0
+P065,Optometría,41,17.0,0
+P066,Optometría,36,33.0,1
+P067,Optometría,24,29.0,1
+P068,Ginecología,47,39.0,0
+P069,Optometría,20,40.0,1
+P070,Odontología,50,58.0,1
+P072,Medicina general,73,28.0,0
+P076,Odontología,23,27.0,0
+P073,Pediatría,80,32.0,0
+P074,Optometría,62,17.0,0
+P075,Pediatría,53,32.0,1
+P077,Optometría,50,32.0,0
+P078,Pediatría,34,28.0,1
+P079,Optometría,25,24.0,1
