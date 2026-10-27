@@ -247,3 +247,16 @@ El parcial permitió aplicar inspección, limpieza, visualización y aprendizaje
 Se corrigieron cuatro problemas de calidad y se entrenó un perceptrón desde cero que redujo la pérdida logarítmica de 0.693147 a 0.340566.
 
 Los resultados indican que la anticipación y la edad están asociadas con la probabilidad estimada de inasistencia, pero se requiere una evaluación independiente antes de tomar decisiones reales.
+
+## 9. Parámetros de estandarización
+
+El perceptrón utiliza la estandarización:
+
+X_estandarizado = (X - media) / desviación_estándar
+
+| Variable | Media | Desviación estándar |
+|---|---:|---:|
+| edad_anios | 48.89873418 | 18.80519383 |
+| dias_anticipacion | 32.21518987 | 14.97227048 |
+
+Estos parámetros se calcularon con los 79 registros limpios y se reutilizaron para evaluar los dos pacientes nuevos, sin recalcularlos.
